@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 <br />
+
+I am a Linux 🐧 systems administrator interested in container-focused operating systems 📦 <br />
+I am currently studying 🌱 cloud native technologies and Kubernetes ☁️ <br />
+
+<a href="https://www.credly.com/badges/1f2714db-cdb1-41e7-8972-284fdcb999b6/public_url" target="_blank" title="LFCS: Linux Foundation Certified Systems Administrator">
+<img src="https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png"/></a>
 
 <!--
 **hrismarin/hrismarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
