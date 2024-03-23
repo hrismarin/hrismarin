@@ -1,10 +1,13 @@
 ### Hi there 👋 <br />
 
-I am a Linux 🐧 systems administrator interested in container-focused operating systems 📦 <br />
-I am currently studying 🌱 cloud native technologies and Kubernetes ☁️ <br />
+I am a Linux 🐧 administrator interested in container-focused operating systems 📦 <br />
+I am currently studying 🌱 Kubernetes and Cloud Native technologies ☁️ <br />
 
-<a href="https://www.credly.com/badges/1f2714db-cdb1-41e7-8972-284fdcb999b6/public_url" target="_blank" title="LFCS: Linux Foundation Certified Systems Administrator">
-<img src="https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png"/></a>
+<a href="https://www.credly.com/badges/8e906200-e642-47cc-8770-dc6bb0b7a5cd/public_url" title="Linux Foundation Certified IT Associate (LFCA)">
+<img src="https://training.linuxfoundation.org/wp-content/uploads/2020/09/Training_Badges_LFCI-500x500.png" width="111" height="111"/></a>
+
+<a href="https://www.credly.com/badges/1f2714db-cdb1-41e7-8972-284fdcb999b6/public_url" title="Linux Foundation Certified System Administrator (LFCS)">
+<img src="https://training.linuxfoundation.org/wp-content/uploads/2020/11/lfcs_111820-500x500.png" width="109" height="109"/></a>
 
 <!--
 **hrismarin/hrismarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
